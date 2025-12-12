@@ -11,6 +11,6 @@ package org.daw.rectangles;
 public class POORectangles {
 
     public static void main(String[] args) {
-        
+        System.out.println("Aplicació rectangles");
     }
 }

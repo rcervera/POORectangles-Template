@@ -6,6 +6,7 @@ public class TestsRectangles {
     
     @Test
     public void test() {
-        Rectangle R = new Rectangle();
+        
+        
     }
 }
